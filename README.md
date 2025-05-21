@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello hello, Pranin Edward :D
 
-<!--
-**zenbiscuitslol/zenbiscuitslol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver currently exploring the world of software development and beyond.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 🧠 Learning C and low-level programming (e.g., `get_next_line`, `ft_printf`)
+- 📚 Studying data structures, algorithms, and system design
+- ⚙️ Experimenting with open-source projects and contributing when I can
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: C, Python, JavaScript, HTML/CSS
+- **Tools**: Git, Linux, VS Code, Valgrind
+- **Learning**: Algorithms, memory management, shell scripting
+
+## 📬 Let's Connect
+- Discord : zenbiscuitslol
