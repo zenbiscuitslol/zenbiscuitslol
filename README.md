@@ -1,4 +1,4 @@
-## Hello hello, Pranin Edward :D
+## Hello hello, I'm Pranin Edward :D
 
 Welcome to my GitHub! I'm a passionate learner, builder, and problem-solver currently exploring the world of computer engineering and beyond.
 
